@@ -8,8 +8,11 @@ seaborn = "*"
 pandas = "*"
 matplotlib = "*"
 openpyxl = "*"
+numpy = "*"
+streamlit = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.11"
