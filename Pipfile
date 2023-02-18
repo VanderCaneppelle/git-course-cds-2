@@ -10,6 +10,7 @@ matplotlib = "*"
 openpyxl = "*"
 numpy = "*"
 streamlit = "*"
+plotly = "*"
 
 [dev-packages]
 ipykernel = "*"
