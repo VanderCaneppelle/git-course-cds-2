@@ -11,6 +11,7 @@ openpyxl = "*"
 numpy = "*"
 streamlit = "*"
 plotly = "*"
+xlsxwriter = "*"
 
 [dev-packages]
 ipykernel = "*"

@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "688b2f018456087651d37a43273a434f94e0104099c933ddbbf2aef61a00b071"
+            "sha256": "9ab1a03db49d9e7ee5161b596f28a88a4518d0b9398f57d8107eabd950345c84"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -998,13 +998,21 @@
             "markers": "platform_system != 'Darwin'",
             "version": "==2.2.1"
         },
+        "xlsxwriter": {
+            "hashes": [
+                "sha256:ec77335fb118c36bc5ed1c89e33904d649e4989df2d7980f7d6a9dd95ee5874e",
+                "sha256:f5c7491b8450cf49968428f062355de16c9140aa24eafc466c9dfe107610bd44"
+            ],
+            "index": "pypi",
+            "version": "==3.0.8"
+        },
         "zipp": {
             "hashes": [
-                "sha256:23f70e964bc11a34cef175bc90ba2914e1e4545ea1e3e2f67c079671883f9cb6",
-                "sha256:e8b2a36ea17df80ffe9e2c4fda3f693c3dad6df1697d3cd3af232db680950b0b"
+                "sha256:188834565033387710d046e3fe96acfc9b5e86cbca7f39ff69cf21a4128198b7",
+                "sha256:9e5421e176ef5ab4c0ad896624e87a7b2f07aca746c9b2aa305952800cb8eecb"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==3.13.0"
+            "version": "==3.14.0"
         }
     },
     "develop": {
